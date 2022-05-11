@@ -44,7 +44,7 @@ Script ini menggunkan Manual Payload.
 
 ## Author
 INJECTOR v1.6 +1.0
-	Created by Marcone 2018
-	Enhanced by nuha
+	Created by Marcone 2018  
+	Enhanced by nuha  
 
 #python #windows #injector #http #httpinjector #nuha
