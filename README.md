@@ -7,7 +7,7 @@ Payload menggunakan file injector.ini dan di baca setiap koeksi dilakukan tanpa 
 
 file injector.ini, ganti nilai payload sesuai bug yang dipakai tan-pa stop script
 
-[bug]
+[bug]  
 payload=GET wss://v27.tiktokcdn.com/ HTTP/1.1[crlf]Host: sg-udpgw5.sshws.net[crlf]Upgrade: websocket[crlf][crlf]
 
 Menggunakan py selector versi python di windows
